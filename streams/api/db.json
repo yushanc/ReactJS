@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "fsfsdf",
+      "description": "fdsf",
+      "id": 1
+    },
+    {
+      "title": "fsfsdf",
+      "description": "fdsf",
+      "id": 2
+    },
+    {
+      "title": "fsfsdf",
+      "description": "fdsf",
+      "id": 3
+    },
+    {
+      "title": "I create this stream",
+      "description": "this stream is created by me- refractory this stream",
+      "id": 4
+    }
+  ]
+}
